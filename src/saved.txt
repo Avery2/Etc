@@ -1,0 +1,18 @@
+//	public static void main(String[] args) {
+//
+//		ArrayList<Integer> intArr = new ArrayList<Integer>(Arrays.asList(1, 2, 3, 4, 5));
+//
+//		int age = Integer.parseInt(JOptionPane.showInputDialog("How old are you?"));
+//		boolean canVote = (age >= 18) ? true : false;
+//		JOptionPane.showMessageDialog(null, "Your age is: " + age + "\nYou can vote: " + canVote, "User Info",
+//				JOptionPane.PLAIN_MESSAGE);
+//
+//		System.out.println("Sum: " + getSum(1, 2, 3, 4, 5, 6));
+//	}
+//
+//	public static int getSum(int... nums) {
+//		int sum = 0;
+//		for (int x : nums)
+//			sum += x;
+//		return sum;
+//	}
